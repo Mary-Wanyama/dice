@@ -1,0 +1,38 @@
+*{
+    color: rgba(129, 111, 8, 0.925);
+    background-color: white;
+}
+.container{
+    padding-top: 0.8vw;
+    text-align: center;
+    font-size: 3vw;
+}
+.flexcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+img{
+    width: 10vw;
+    height: 9vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+footer{
+    text-align: center;
+
+}
+h3{
+    background-color: rgba(129, 111, 8, 0.925);
+    color: rgb(207, 19, 207);
+    font-size: 2vw;
+    height: 5vw;
+    padding-top: 1vw;
+    margin-top: 2.2vw;
+    margin-bottom: 0px;
+}
+header{
+    margin-top: 0px;
+    
+}
